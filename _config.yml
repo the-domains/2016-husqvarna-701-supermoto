@@ -1,0 +1,68 @@
+name: 2016 Husqvarna  701 Supermoto
+analytics: {}
+github: true
+description: The Big Bore Supermoto Adventure
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae97c506a7a60ec74d942de0400df6d090bfa316.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae97c506a7a60ec74d942de0400df6d090bfa316.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        domain: s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.7255373740419376
+color:
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#283043'
+    - '#EAEAEC'
+    - '#F5EB55'
+    - '#B1B1B1'
+  saturation: 0.02724732333628258
+  brandStrength: 0.2457699128450586
+  rhythmicContrast: 0.5374752151440497
+content_rating:
+  adult: false
+typography_spectrum: 0.7437039844987748
+coverPrefs:
+  filter: false
+title: 2016 Husqvarna 701 Supermoto
+opengraph: {}
